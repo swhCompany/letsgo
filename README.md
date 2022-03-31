@@ -73,7 +73,7 @@ _**위의 명세서는 아래 링크에서 확인 가능!**_
 
 
 ## 트러블 슈팅 🎯
-<a href="https://github.com/swhCompany/letsgo/wiki"><img src="https://img.shields.io/badge/명세서 List home page-af73f0?style=for-the-badge&logoWidth=50"/></a>
+<a href="https://github.com/swhCompany/letsgo/wiki/%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85"><img src="https://img.shields.io/badge/trouble shooting-a1edb5?style=for-the-badge&logoWidth=50"/></a>
 
 ## 개선 사항 👩‍💻
 
