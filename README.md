@@ -66,7 +66,14 @@ _**위의 명세서는 아래 링크에서 확인 가능!**_
 
 <a href="https://github.com/swhCompany/letsgo/wiki"><img src="https://img.shields.io/badge/명세서 List home page-af73f0?style=for-the-badge&logoWidth=50"/></a>
 
+## 사용자 동작 정보 💻
+<img src="https://user-images.githubusercontent.com/97021735/160964509-8c8eb481-11fd-4724-978a-2b1db574c766.jpg" width=600px/>
+<img src="https://user-images.githubusercontent.com/97021735/160964520-55ad8957-c24f-4c17-b195-5c74bb3b3ca7.jpg" width=600px/>
+<img src="https://user-images.githubusercontent.com/97021735/160964525-ff9ee092-693a-414b-9575-4d6c176a7979.jpg" width=600px/>
+
+
 ## 트러블 슈팅 🎯
+<a href="https://github.com/swhCompany/letsgo/wiki"><img src="https://img.shields.io/badge/명세서 List home page-af73f0?style=for-the-badge&logoWidth=50"/></a>
 
 ## 개선 사항 👩‍💻
 
