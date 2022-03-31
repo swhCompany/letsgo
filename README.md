@@ -66,7 +66,7 @@ _**위의 명세서는 아래 링크에서 확인 가능!**_
 
 <a href="https://github.com/swhCompany/letsgo/wiki"><img src="https://img.shields.io/badge/명세서 List home page-af73f0?style=for-the-badge&logoWidth=50"/></a>
 
-## 사용자 동작 정보 💻
+## 사용자 동작 정보 🎞
 <img src="https://user-images.githubusercontent.com/97021735/160965563-c78240f9-8afc-45d7-a105-2d320d01217a.jpg" width=600px/>
 <img src="https://user-images.githubusercontent.com/97021735/160964520-55ad8957-c24f-4c17-b195-5c74bb3b3ca7.jpg" width=600px/>
 <img src="https://user-images.githubusercontent.com/97021735/160965591-8c2ce496-450f-40ac-aa46-b7d35d2174ae.jpg" width=600px/>
