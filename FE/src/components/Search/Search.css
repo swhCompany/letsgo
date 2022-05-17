@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'GowunDodum-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunDodum-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GowunBatang-Bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunBatang-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+form {
+    line-height: 49px;
+    padding-top: 20px;
+    padding-bottom: 300px;
+    display: block;
+    font-family: 'GowunDodum-Regular';
+  }
+
+select {
+    width:180px;
+    padding:10px;
+    border:1px solid #999;
+    border-radius:3px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20;
+    margin-bottom: 20;
+    margin-right: 10;
+    font-family: 'GowunBatang-Bold';
+  }
+
+input.a, input.b {
+    width:170px;
+    padding:10px;
+    border:1px solid #999;
+    font-family:'GowunBatang-Bold';
+    border-radius:3px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 20;
+    margin-bottom: 20;
+    margin-left: 15px;
+}
+
+.list {
+  font-size: 20px;
+}
+
+input.c {
+    width:100px;
+    padding:10px;
+    border:1px solid #999;
+    font-family:'Nanumgothic';
+    border-radius:3px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 20;
+    margin-bottom: 20;
+    margin-left: 15px;
+
+    border: 1px solid rgb(212, 103, 103);
+    background-color: rgb(212, 103, 103);
+    color: white;
+    cursor: pointer;     
+}
+
+  
+input.c:hover,
+input.c:active {
+    background-color: rgb(219, 138, 138);
+    border: 1px solid rgb(219, 138, 138);
+    text-align: center;
+  }

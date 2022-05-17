@@ -1,0 +1,42 @@
+.header {
+    padding: 0 7%;
+    font-family: 'nanumsquare';
+    font-weight: bold;
+    background-color: white;
+    color: black;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    top: 0;
+    width: 90%;
+    overflow: hidden;
+    zoom: 1;
+    position:relative;
+    z-index:1;
+    text-align: center;
+
+  }
+  
+  .header img {
+    width: 10%;
+    height: 10%;
+    /* margin-bottom: 5px; */
+    /* margin-right: 300px; */
+    align-items: center;
+
+  }
+  
+  /* .Account {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    z-index: 1;
+    text-align: center;
+  }
+  
+  .Account div {
+    z-index: 1;
+    margin-right: 30px;
+    text-align: center;
+  } */

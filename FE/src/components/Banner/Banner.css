@@ -1,0 +1,114 @@
+@font-face {
+    font-family: 'GowunDodum-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunDodum-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'GowunBatang-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunBatang-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.banner__container {
+    /* background-color: skyblue; */
+    /* padding-top: 100px; */
+    font-family: 'GowunBatang-Bold'; 
+    margin-bottom: 50px;
+    display: block;
+}
+
+.banner__desc {
+    padding-bottom: 10px;
+    /* border-bottom: 1px solid #888; */
+}
+
+.banner__content {
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    /* margin-bottom: 30px; */
+    display: flex;
+    justify-content: space-evenly;
+    /* border-bottom: solid 1px black; */
+}
+
+.banner__container:after {
+    content: "";
+    display: block;
+    width: 1000px;
+    border-bottom: 3px solid black;
+    margin: 20px auto;
+  }
+
+.banner__content .banner__desc {
+    display: flex;
+}
+
+.banner__content .banner__row {
+    width: 400px;
+    height: 200px;
+    margin: 0px 15px;
+    border-radius: 50px;
+}
+
+.banner__row {
+    display: inline-block;
+    position: relative;
+}
+
+.banner__box {
+    transition: all 0.2s linear;
+    display: inline-block;
+    position: relative;
+}
+
+.banner__box:hover {
+    transform: scale(1.2);
+}
+
+.banner__box:hover:after, .banner__box:hover > .banner__text {
+    display: block;
+}
+
+.banner__content .banner__text {
+    position: absolute;
+    top: 50px;
+    left: 25%;
+    color: #fff;
+    z-index: 20;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.banner__box:after, .banner__text {
+    display: none;
+}
+
+.banner__box:after {
+    content:'';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(245, 243, 243, 0.308);
+    z-index: 10;
+    width: 400px;
+    height: 200px;
+    margin: 0px 15px;
+    border-radius: 50px;
+}
+
+.banner__box {
+    overflow: hidden;
+}
+
+.banner__box img {
+    height: 340px;
+}
+
+.banner__box:hover img {
+    transition: 1s;
+}
